@@ -1,4 +1,5 @@
 Team Members:
 
 * Alex
-* TODO: others
+* Tyler
+* TODOs
